@@ -2,6 +2,13 @@
 
 <!--
 **edmariooliver/edmariooliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/edm%C3%A1rio-oliveira-a3654a193/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/edmario.oliver/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 
 Here are some ideas to get you started:
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![edmariooliver GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmariooliver&show_icons=true)
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 

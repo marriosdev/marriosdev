@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 
 
 ![edmariooliver GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmariooliver&show_icons=true)
-
+<hr>
 ### Technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&layout=compact)](https://github.com/edmariooliver/github-readme-stats)
+
+<hr>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -31,9 +35,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&layout=compact)](https://github.com/edmariooliver/github-readme-stats)
-
-
-
 
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-![edmariooliver GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmariooliver&show_icons=true&theme=radical)
+![edmariooliver GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmariooliver)
 ### 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

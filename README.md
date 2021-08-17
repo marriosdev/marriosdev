@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/edmariooliver/count.svg" />
  </p>

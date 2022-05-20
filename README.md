@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-📧edmariooliveira2002@hotmail.com.
+📧edmariooliveira2002@hotmail.com
 
 Discord: Márrios#5353
 

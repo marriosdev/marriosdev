@@ -15,7 +15,7 @@ Discord: Márrios#5353
 
 
 ###
-<h1 align="left">I code with</h1>
+<h1 align="left">Techs</h1>
 
 ###
 <div align="left">

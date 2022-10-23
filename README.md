@@ -13,6 +13,6 @@ Discord: Márrios#5353
 
 <hr>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edmariooliver&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true&layout=compact" alt="Edmario Oliveira's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&theme=buefy&hide_border=true&langs_count=10" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edmariooliver&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" alt="Edmario Oliveira's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmariooliver&theme=buefy&hide_border=true&langs_count=10&layout=compact" /></a> |
 | ------------- | ------------- |
 

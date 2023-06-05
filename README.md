@@ -9,7 +9,7 @@
 
 Discord: Márrios#5353
 
-👨‍💻  <strong>Skills:</strong> PHP, Laravel, CodeIgniter, MYSQL, Docker, Linux, Git, Github, Bitbucket, Jira  <br />
+👨‍💻  <strong>Skills:</strong> PHP, Laravel, CodeIgniter, MYSQL, Docker, Linux, Git <br />
 👨‍💻  <strong>Learning</strong>: AWS, Rust e Python <br />
 
 

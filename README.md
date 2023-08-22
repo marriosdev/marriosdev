@@ -7,7 +7,7 @@
 
 📧edmariooliveira2002@hotmail.com
 
-Discord: Márrios#5353
+Discord: marrios
 
 👨‍💻  <strong>Skills:</strong> PHP, Laravel, CodeIgniter, MYSQL, Docker, Linux, Git, Vuejs <br />
 👨‍💻  <strong>Learning</strong>: AWS, Rust e Python <br />

@@ -10,7 +10,7 @@
 Discord: marrios
 
 👨‍💻  <strong>Skills:</strong> PHP, Laravel, CodeIgniter, MYSQL, Docker, Linux, Git, Vuejs <br />
-👨‍💻  <strong>Learning</strong>: AWS, Rust e Go <br />
+👨‍💻  <strong>Learning</strong>: AWS e Go <br />
 
 
 <hr>

@@ -15,7 +15,7 @@ Discord: marrios
 
 <hr>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=g2zlht4px0bokkkf89y70xq5n&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=g2zlht4px0bokkkf89y70xq5n&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)]]
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=g2zlht4px0bokkkf89y70xq5n&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=g2zlht4px0bokkkf89y70xq5n&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)]
 <hr>
 
 
